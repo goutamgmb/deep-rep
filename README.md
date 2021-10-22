@@ -289,7 +289,7 @@ before you can visualize them using visualize_results.py.
 
 You can evaluate the models on Grayscale and Color denoising test sets using [evaluation/burst_denoise](evaluation/burst_denoise) package. 
 First create an experiment setting in [evaluation/burst_denoise/experiments](evaluation/burst_denoise/experiments) containing the list of 
-models to evaluate. You can start with the provided setting [deeprep_default.py](evaluation/burst_denoise/experiments/deeprep_default.py) as a reference.
+models to evaluate. You can start with the provided setting [deeprep_color.py](evaluation/burst_denoise/experiments/deeprep_color.py) as a reference.
 Please refer to [network_param.py](evaluation/common_utils/network_param.py) for examples on how to specify a model for evaluation.
 
 ### Save network predictions
