@@ -5,6 +5,8 @@ Official implementation of [**Deep Reparametrization of Multi-Frame Super-Resolu
 **Publication:** Deep Reparametrization of Multi-Frame Super-Resolution and Denoising. Goutam Bhat, Martin Danelljan, Fisher Yu, Luc Van Gool, and Radu Timofte. ICCV 2021 **oral** 
 [[Arxiv](https://arxiv.org/pdf/2108.08286.pdf)]
 
+**Note:** The code for our CVPR2021 paper ["Deep Burst Super-Resolution"](https://arxiv.org/pdf/2101.10997.pdf) is available at [goutamgmb/deep-burst-sr](https://github.com/goutamgmb/deep-burst-sr)
+
 ## Overview
 
 We propose a deep reparametrization of the maximum a
